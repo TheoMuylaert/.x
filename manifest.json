@@ -1,0 +1,21 @@
+{
+    "name": "Hide: for Parents",
+    "short_name": "Hide",
+    "start_url": ".",
+    "background_color": "#F2F0D5",
+    "theme_color": "#A69E77",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "src/img/icons/icon192.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+
+        {
+            "src": "src/img/icons/icon512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
